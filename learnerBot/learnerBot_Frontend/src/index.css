@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Fixes the Chrome DevTools warning */
+@layer base {
+  html {
+    text-size-adjust: 100%;
+  }
+}

@@ -1,0 +1,21 @@
+# Firebase & Server Wrapper Tools
+firebase-functions>=0.1.0
+firebase-admin>=6.0.0
+a2wsgi>=1.10.0
+werkzeug>=3.0.0
+
+# FastAPI & Core Tools
+fastapi>=0.111.0
+python-multipart
+pydantic-settings
+python-dotenv
+httpx
+
+# AI & Audio Tools
+google-cloud-speech
+google-cloud-texttospeech
+openai
+
+# File Upload Text Extraction
+pypdf
+python-docx
